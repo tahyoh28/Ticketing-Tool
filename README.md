@@ -1,3 +1,4 @@
+**Ticekting Tool**
 
 📘 Background
 The company's current (AS-IS) support process relies on clients reaching out via email or phone to report issues or make requests. This method lacks a centralized repository and proper tracking, making it difficult to monitor whether issues have been resolved or requests fulfilled. Therefore, there is a need for a system where the entire company can monitor tickets and corresponding solutions in a structured way.
