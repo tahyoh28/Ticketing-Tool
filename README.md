@@ -114,3 +114,9 @@ Customers
 Estimated Duration: 3 months
 
 Resources: Dedicated internal project team
+![Capture 2](https://github.com/user-attachments/assets/719ab3b2-46d1-484c-bfab-7960f88ad76f)
+
+![Capture](https://github.com/user-attachments/assets/321fc1b5-4bc5-44ef-a6e2-55ff9494a04e)
+
+
+
